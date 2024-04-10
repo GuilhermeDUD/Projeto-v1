@@ -1,0 +1,72 @@
+header{
+    background-color: black;
+    border-top: 0;
+}
+.T{
+    color: black;
+    position: absolute;
+    left: 1086px;
+    height: 47px;
+    top: 310px;
+    font-size: 28px;
+
+}
+.Ano{
+    position: absolute;
+    width: 62px;
+    height: 47px;
+    left: 1229px;
+    top: 370px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 58px;
+    color: #FFB800;
+}
+.img{
+
+    position: absolute;
+    width: 240px;
+    height: 211px;
+    left: 45px;
+    top: 405px;
+    
+}
+.primeirotexto{
+
+    position: absolute;
+    width: 455px;
+    height: 120px;
+    left: 1200px;
+    top: 450px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 24px;
+    color: black;
+}
+.segundotexto{
+
+    position: absolute;
+    width: 455px;
+    height: 120px;
+    left: 1200px;
+    top: 450px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 24px;
+    color: black;
+}
+.terceirotexto{
+    position: absolute;
+    width: 455px;
+    height: 120px;
+    left: 1200px;
+    top: 450px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 24px;
+    color: black;
+}
