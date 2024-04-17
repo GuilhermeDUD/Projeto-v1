@@ -2,71 +2,131 @@ header{
     background-color: black;
     border-top: 0;
 }
+
 .T{
     color: black;
     position: absolute;
-    left: 1086px;
+    left: 1230px;
     height: 47px;
-    top: 310px;
+    top: 260px;
     font-size: 28px;
-
+    font-family: "Koulen", sans-serif;
+    font-weight: 200;
+    font-style: normal;
 }
+
 .Ano{
     position: absolute;
     width: 62px;
     height: 47px;
-    left: 1229px;
-    top: 370px;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
+    left: 1350px;
+    top: 320px;
+    font-size: 14px;
     line-height: 58px;
     color: #FFB800;
+    font-family: "Koulen", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
-.img{
 
-    position: absolute;
-    width: 240px;
-    height: 211px;
-    left: 45px;
-    top: 405px;
-    
+.containertoolbars img{
+    max-width: 880px;
+    max-height: 880px;
+    margin: 120px;
 }
+
 .primeirotexto{
 
     position: absolute;
     width: 455px;
     height: 120px;
     left: 1200px;
-    top: 450px;
+    top: 400px;
     font-style: normal;
-    font-weight: 500;
     font-size: 10px;
-    line-height: 24px;
+    line-height: 22px;
     color: black;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
 }
+
 .segundotexto{
 
     position: absolute;
     width: 455px;
-    height: 120px;
+    height: 110px;
     left: 1200px;
-    top: 450px;
+    top: 535px;
     font-style: normal;
-    font-weight: 500;
     font-size: 10px;
-    line-height: 24px;
+    line-height: 22px;
     color: black;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
 }
+
 .terceirotexto{
     position: absolute;
     width: 455px;
-    height: 120px;
+    height: 100px;
     left: 1200px;
-    top: 450px;
+    top: 710px;
     font-style: normal;
-    font-weight: 500;
     font-size: 10px;
-    line-height: 24px;
-    color: black;
+    line-height: 22px;
+    color:black;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
 }
+
+*{
+    margin: 0;
+}
+
+.trespontos{
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+
+.HOME{
+    position: absolute;
+    top: 52px;
+    left: 650px;
+    color: white;
+    font-family: "Ramabhadra", sans-serif;
+    font-size: 12px;
+}
+
+.CARS{
+    position: absolute;
+    top: 52px;
+    left: 930px;
+    color: white;
+    font-family: "Ramabhadra", sans-serif;
+    font-size: 12px;
+}
+
+.BLOG{
+    position: absolute;
+    top: 52px;
+    left: 1200px;
+    color: white;
+    font-family: "Ramabhadra", sans-serif;
+    font-size: 12px;
+}
+
+.ABOUT{
+    position: absolute;
+    top: 52px;
+    left: 1450px;
+    color: white;
+    font-family: "Ramabhadra", sans-serif;
+    font-size: 12px;
+}
+
+.rectangle {
+    height: 150px;
+    width: 2000px;
+    background-color:black;
+  }
